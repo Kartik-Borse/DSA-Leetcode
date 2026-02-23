@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0056-merge-intervals) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0274-h-index) |
 | [0410-split-array-largest-sum](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0410-split-array-largest-sum) |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0410-split-array-largest-sum](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0704-binary-search) |
 ## Dynamic Programming
@@ -53,4 +55,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
