@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0056-merge-intervals) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -58,5 +59,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
