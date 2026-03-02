@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid">1658. Minimum Swaps to Arrange a Binary Grid</a></h2><h3>Medium</h3><hr><p>Given an <code>n x n</code> binary <code>grid</code>, in one step you can choose two <strong>adjacent rows</strong> of the grid and swap them.</p>
+<h2><a href="https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid">1536. Minimum Swaps to Arrange a Binary Grid</a></h2><h3>Medium</h3><hr><p>Given an <code>n x n</code> binary <code>grid</code>, in one step you can choose two <strong>adjacent rows</strong> of the grid and swap them.</p>
 
 <p>A grid is said to be <strong>valid</strong> if all the cells above the main diagonal are <strong>zeros</strong>.</p>
 
