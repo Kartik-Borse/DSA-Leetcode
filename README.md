@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0410-split-array-largest-sum) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Greedy
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Sorting
 |  |
 | ------- |
@@ -94,4 +96,8 @@
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Sliding Window
+|  |
+| ------- |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 <!---LeetCode Topics End-->
