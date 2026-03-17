@@ -18,6 +18,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Kartik-Borse/DSA-Leetocde/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1980-find-unique-binary-string](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1980-find-unique-binary-string) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -44,6 +45,7 @@
 | [0410-split-array-largest-sum](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0410-split-array-largest-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Prefix Sum
@@ -78,6 +80,7 @@
 | [0056-merge-intervals](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0274-h-index) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Counting Sort
 |  |
@@ -100,6 +103,7 @@
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Kartik-Borse/DSA-Leetocde/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Bit Manipulation
 |  |
