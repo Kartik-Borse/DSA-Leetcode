@@ -28,6 +28,7 @@
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
@@ -67,6 +68,7 @@
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Math
 |  |
 | ------- |
@@ -104,6 +106,7 @@
 | [0001-two-sum](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0001-two-sum) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1980-find-unique-binary-string](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1980-find-unique-binary-string) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -124,6 +127,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Bit Manipulation
 |  |
@@ -177,4 +181,5 @@
 |  |
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 <!---LeetCode Topics End-->
