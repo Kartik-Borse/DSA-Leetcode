@@ -14,6 +14,7 @@
 | [0274-h-index](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0274-h-index) |
 | [0410-split-array-largest-sum](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0704-binary-search) |
+| [0874-walking-robot-simulation](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0001-two-sum) |
+| [0874-walking-robot-simulation](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1980-find-unique-binary-string](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -161,6 +163,7 @@
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
