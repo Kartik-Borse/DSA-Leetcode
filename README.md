@@ -166,6 +166,7 @@
 | [0874-walking-robot-simulation](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2069-walking-robot-simulation-ii](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Recursion
@@ -203,6 +204,7 @@
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1622-fancy-sequence) |
+| [2069-walking-robot-simulation-ii](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 ## Segment Tree
 |  |
 | ------- |
