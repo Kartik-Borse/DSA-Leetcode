@@ -40,6 +40,7 @@
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
 | ------- |
@@ -139,6 +141,7 @@
 | [3488-closest-equal-element-queries](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Two Pointers
 |  |
 | ------- |
