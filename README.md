@@ -22,6 +22,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1980-find-unique-binary-string) |
@@ -49,6 +50,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0410-split-array-largest-sum](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0704-binary-search) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3488-closest-equal-element-queries](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -148,6 +150,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Matrix
 |  |
