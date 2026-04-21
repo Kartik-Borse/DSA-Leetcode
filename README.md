@@ -20,6 +20,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Kartik-Borse/DSA-Leetocde/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -205,6 +206,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
@@ -243,4 +245,8 @@
 | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->
