@@ -12,6 +12,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0274-h-index) |
+| [0396-rotate-function](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0704-binary-search) |
 | [0874-walking-robot-simulation](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0874-walking-robot-simulation) |
@@ -69,6 +70,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0410-split-array-largest-sum) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -109,6 +111,7 @@
 ## Math
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0396-rotate-function) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1622-fancy-sequence](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
