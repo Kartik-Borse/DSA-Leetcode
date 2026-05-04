@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0056-merge-intervals) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0179-largest-number) |
@@ -112,6 +113,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0788-rotated-digits) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -185,6 +187,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
