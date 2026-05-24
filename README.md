@@ -23,6 +23,7 @@
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1306-jump-game-iii](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1306-jump-game-iii) |
+| [1340-jump-game-v](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -96,6 +97,7 @@
 | [0410-split-array-largest-sum](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0410-split-array-largest-sum) |
 | [0788-rotated-digits](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0788-rotated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1340-jump-game-v](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1340-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2573-find-the-string-with-lcp](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/2573-find-the-string-with-lcp) |
@@ -179,6 +181,7 @@
 | [0056-merge-intervals](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0274-h-index) |
+| [1340-jump-game-v](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
