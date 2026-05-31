@@ -44,6 +44,7 @@
 | [1980-find-unique-binary-string](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/2126-destroying-asteroids) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2540-minimum-common-value](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -122,6 +123,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/2126-destroying-asteroids) |
 | [2573-find-the-string-with-lcp](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -197,6 +199,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2126-destroying-asteroids](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/2126-destroying-asteroids) |
 | [2784-check-if-array-is-good](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
