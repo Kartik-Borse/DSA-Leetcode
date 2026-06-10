@@ -79,6 +79,7 @@
 | [3660-jump-game-ix](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -142,6 +143,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -346,6 +348,7 @@
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Design
 |  |
 | ------- |
@@ -356,6 +359,7 @@
 | ------- |
 | [1622-fancy-sequence](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1622-fancy-sequence) |
 | [3161-block-placement-queries](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3161-block-placement-queries) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Enumeration
 |  |
 | ------- |
