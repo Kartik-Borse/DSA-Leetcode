@@ -200,6 +200,7 @@
 | [0179-largest-number](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0179-largest-number) |
 | [0657-robot-return-to-origin](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0796-rotate-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -248,6 +249,7 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0274-h-index) |
+| [1189-maximum-number-of-balloons](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2833-furthest-point-from-origin](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Hash Table
@@ -256,6 +258,7 @@
 | [0001-two-sum](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0001-two-sum) |
 | [0874-walking-robot-simulation](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1189-maximum-number-of-balloons](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1980-find-unique-binary-string) |
