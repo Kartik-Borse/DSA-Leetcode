@@ -8,16 +8,19 @@
  */
 class Solution {
     public void deleteNode(ListNode node) {
-        ListNode curr=node;
-        ListNode temp=node.next;
-        while(temp!=null){
-            curr.val=temp.val;
-            if(temp.next==null){
-                curr.next=null;
-                return;
-            }
-            curr=temp;
-            temp=temp.next;
-        }
+        // ListNode curr=node;
+        // ListNode temp=node.next;
+        // while(temp!=null){
+        //     curr.val=temp.val;
+        //     if(temp.next==null){
+        //         curr.next=null;
+        //         return;
+        //     }
+        //     curr=temp;
+        //     temp=temp.next;
+        // }
+        //optimized
+        node.val=node.next.val;
+        node.next=node.next.next;
     }
 }
