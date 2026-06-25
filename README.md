@@ -264,6 +264,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0874-walking-robot-simulation](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1189-maximum-number-of-balloons](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -290,6 +291,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0876-middle-of-the-linked-list](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -449,6 +451,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
