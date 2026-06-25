@@ -288,6 +288,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
@@ -451,6 +452,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
