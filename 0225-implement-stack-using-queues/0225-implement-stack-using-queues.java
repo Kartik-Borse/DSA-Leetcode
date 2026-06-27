@@ -7,12 +7,12 @@ class MyStack {
     public void push(int x) {
         q.add(x);
         for(int i=0;i<q.size()-1;i++){
-            q.add(q.remove());
+            q.add(q.poll());
         }
     }
     
     public int pop() {
-        return q.remove();
+        return q.poll();
     }
     
     public int top() {
