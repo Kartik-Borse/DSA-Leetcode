@@ -397,6 +397,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1622-fancy-sequence](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 ## Segment Tree
@@ -480,6 +481,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Merge Sort
@@ -490,4 +492,5 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
