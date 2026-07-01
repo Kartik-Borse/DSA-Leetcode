@@ -438,6 +438,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1306-jump-game-iii](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -488,6 +489,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Stack
@@ -495,6 +497,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -513,4 +516,5 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
