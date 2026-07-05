@@ -377,6 +377,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Sliding Window
@@ -491,6 +492,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
