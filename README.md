@@ -246,6 +246,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0274-h-index) |
 | [1340-jump-game-v](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1340-jump-game-v) |
@@ -308,6 +309,7 @@
 | [0061-rotate-list](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -450,6 +452,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0148-sort-list) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -496,6 +499,7 @@
 | [0061-rotate-list](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0328-odd-even-linked-list) |
@@ -532,6 +536,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Queue
 |  |
