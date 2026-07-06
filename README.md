@@ -463,6 +463,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -524,6 +525,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Stack
@@ -554,6 +556,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Shortest Path
 |  |
 | ------- |
