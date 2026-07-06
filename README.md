@@ -21,6 +21,7 @@
 | [0704-binary-search](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0704-binary-search) |
 | [0874-walking-robot-simulation](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1288-remove-covered-intervals](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1306-jump-game-iii) |
@@ -250,6 +251,7 @@
 | [0148-sort-list](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0274-h-index) |
+| [1288-remove-covered-intervals](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
