@@ -190,6 +190,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0396-rotate-function) |
@@ -385,6 +386,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -507,6 +509,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0061-rotate-list) |
