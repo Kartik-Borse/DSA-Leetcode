@@ -162,6 +162,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0410-split-array-largest-sum) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -242,6 +243,7 @@
 | [0179-largest-number](https://github.com/Kartik-Borse/DSA-Leetocde/tree/master/0179-largest-number) |
 | [0657-robot-return-to-origin](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0796-rotate-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -602,6 +604,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Merge Sort
 |  |
@@ -639,4 +642,8 @@
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kartik-Borse/DSA-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
